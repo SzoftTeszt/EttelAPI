@@ -1,0 +1,41 @@
+{
+  "etelek": [
+    {
+      "nev": "Rántott csirkemell",
+      "kcal": 300,
+      "id": 4
+    },
+    {
+      "nev": "Palacsinta",
+      "kcal": "100",
+      "id": 5
+    },
+    {
+      "nev": "Csirke saláta",
+      "kcal": "100",
+      "id": 6
+    },
+    {
+      "nev": "Rántott karaj",
+      "kcal": "300",
+      "id": 7
+    }
+  ],
+  "italok": [
+    {
+      "id": 1,
+      "nev": "Coca-cola",
+      "kcal": 200
+    },
+    {
+      "id": 2,
+      "nev": "Fanta",
+      "kcal": 200
+    },
+    {
+      "id": 3,
+      "nev": "Ásváyn víz",
+      "kcal": 0
+    }
+  ]
+}
